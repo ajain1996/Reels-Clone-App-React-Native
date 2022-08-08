@@ -1,0 +1,104 @@
+{
+                    id: 1,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634661970~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1322%2F23%2F581614478%2F2746691721.mp4~hmac=c438af6035ba0d44fe22b3783013282ffa842334bf3cf633ee00b704c74e8080/vimeo-prod-skyfire-std-us/01/1322/23/581614478/2746691721.mp4?filename=pexels-solodsha-9008406.mp4',
+                    username: 'John Doe',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '12.3k',
+                    comments: '1k',
+                    shares: '200',
+                    avatar:
+                        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=michael-dam-mEZ3PoFGs_k-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
+                {
+                    id: 2,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634662003~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1015%2F20%2F505077215%2F2312781861.mp4~hmac=639e85fcc5bf4ccfd598973cb08ab3cb0a3297e0acaf75a7b287a8ea8208e77e/vimeo-prod-skyfire-std-us/01/1015/20/505077215/2312781861.mp4?filename=pexels-tima-miroshnichenko-6611945.mp4',
+                    username: 'Maria',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '150k',
+                    comments: '2k',
+                    shares: '200k',
+                    avatar:
+                        'https://images.unsplash.com/photo-1569913486515-b74bf7751574?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=minh-pham-5yENNRbbat4-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
+                {
+                    id: 3,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634662025~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2652%2F21%2F538264429%2F2550413233.mp4~hmac=39033669f8248a54b5f8f096678442297e0e30e226ee01d62742cbe50c12aaf4/vimeo-prod-skyfire-std-us/01/2652/21/538264429/2550413233.mp4?filename=pexels-darina-belonogova-7551552.mp4',
+                    username: 'John Doe',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '12.3k',
+                    comments: '1k',
+                    shares: '200',
+                    avatar:
+                        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=michael-dam-mEZ3PoFGs_k-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
+                {
+                    id: 4,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634662050~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F415%2F22%2F552078408%2F2611649173.mp4~hmac=48c8beb41efeec86dbd15283ca2152687b0bcf1847986b425c4b283d0284736b/vimeo-prod-skyfire-std-us/01/415/22/552078408/2611649173.mp4?filename=pexels-anna-nekrashevich-7946010.mp4',
+                    username: 'Maria',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '150k',
+                    comments: '2k',
+                    shares: '200k',
+                    avatar:
+                        'https://images.unsplash.com/photo-1569913486515-b74bf7751574?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=minh-pham-5yENNRbbat4-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
+                {
+                    id: 5,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634661970~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1322%2F23%2F581614478%2F2746691721.mp4~hmac=c438af6035ba0d44fe22b3783013282ffa842334bf3cf633ee00b704c74e8080/vimeo-prod-skyfire-std-us/01/1322/23/581614478/2746691721.mp4?filename=pexels-solodsha-9008406.mp4',
+                    username: 'John Doe',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '12.3k',
+                    comments: '1k',
+                    shares: '200',
+                    avatar:
+                        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=michael-dam-mEZ3PoFGs_k-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
+                {
+                    id: 6,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634662086~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4444%2F18%2F472223739%2F2103204900.mp4~hmac=5ad8eab75cd5bbff9ea238804dee8dcbe703d946d355e24469cd200bc0c68e28/vimeo-prod-skyfire-std-us/01/4444/18/472223739/2103204900.mp4?filename=pexels-cottonbro-5702124.mp4',
+                    username: 'Maria',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '150k',
+                    comments: '2k',
+                    shares: '200k',
+                    avatar:
+                        'https://images.unsplash.com/photo-1569913486515-b74bf7751574?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=minh-pham-5yENNRbbat4-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
+                {
+                    id: 7,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634662105~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3852%2F21%2F544263787%2F2580969512.mp4~hmac=f49e4abf91f32475bb3923751ecb2f7662061571f7e4d68b3735f5f2e1c226d8/vimeo-prod-skyfire-std-us/01/3852/21/544263787/2580969512.mp4?filename=pexels-max-vakhtbovych-7749199.mp4',
+                    username: 'John Doe',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '12.3k',
+                    comments: '1k',
+                    shares: '200',
+                    avatar:
+                        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=michael-dam-mEZ3PoFGs_k-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
+                {
+                    id: 8,
+                    videoUrl:
+                        'https://vod-progressive.akamaized.net/exp=1634662105~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3852%2F21%2F544263787%2F2580969512.mp4~hmac=f49e4abf91f32475bb3923751ecb2f7662061571f7e4d68b3735f5f2e1c226d8/vimeo-prod-skyfire-std-us/01/3852/21/544263787/2580969512.mp4?filename=pexels-max-vakhtbovych-7749199.mp4',
+                    username: 'Maria',
+                    description: 'Lets build a clone of tiktok home page @thesedateddev',
+                    likes: '150k',
+                    comments: '2k',
+                    shares: '200k',
+                    avatar:
+                        'https://images.unsplash.com/photo-1569913486515-b74bf7751574?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=minh-pham-5yENNRbbat4-unsplash.jpg&w=640',
+                    song: 'Katy perry - Roar',
+                },
